@@ -1,0 +1,6 @@
+sagemaker
+pandas
+numpy
+torch
+ipykernel
+scikit-learn
